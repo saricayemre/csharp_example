@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\loginpage\loginpage\bin\Debug\loginpage.exe.config
+C:\Users\Admin\source\repos\loginpage\loginpage\bin\Debug\loginpage.exe
+C:\Users\Admin\source\repos\loginpage\loginpage\bin\Debug\loginpage.pdb
+C:\Users\Admin\source\repos\loginpage\loginpage\obj\Debug\loginpage.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\loginpage\loginpage\obj\Debug\loginpage.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\loginpage\loginpage\obj\Debug\loginpage.Form1.resources
+C:\Users\Admin\source\repos\loginpage\loginpage\obj\Debug\loginpage.Properties.Resources.resources
+C:\Users\Admin\source\repos\loginpage\loginpage\obj\Debug\loginpage.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\loginpage\loginpage\obj\Debug\loginpage.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\loginpage\loginpage\obj\Debug\loginpage.exe
+C:\Users\Admin\source\repos\loginpage\loginpage\obj\Debug\loginpage.pdb
